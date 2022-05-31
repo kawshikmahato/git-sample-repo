@@ -1,7 +1,7 @@
 Here are the Git commands which are being covered:
 
-git config
-git init
+git config --> configure the file
+git init --> initialize the git repository
 git clone
 git add
 git commit
