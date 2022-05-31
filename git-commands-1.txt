@@ -1,0 +1,22 @@
+Here are the Git commands which are being covered:
+
+git config --> configure the file
+git init --> initialize the git repository
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull--> pull the data
+git stash
+git add --> new line added
