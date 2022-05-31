@@ -19,3 +19,4 @@ git remote
 git push
 git pull
 git stash
+git add --> new line added
