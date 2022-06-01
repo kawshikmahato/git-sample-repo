@@ -16,7 +16,7 @@ git branch
 git checkout
 git merge
 git remote
-git push
+git push --> to push the data in the repository
 git pull--> pull the data
 git stash
 git add --> new line added
