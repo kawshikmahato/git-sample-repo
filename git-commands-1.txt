@@ -20,3 +20,50 @@ git push --> to push the data in the repository
 git pull--> pull the data
 git stash
 git add --> new line added
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Git Init command
+This command is used to create a local repository.
+
+Syntax
+
+$ git init Demo  
+The init command will initialize an empty repository. See the below screenshot.
