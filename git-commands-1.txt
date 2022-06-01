@@ -66,4 +66,4 @@ This command is used to create a local repository.
 Syntax
 
 $ git init Demo  
-The init command will initialize an empty repository. See the below screenshot.
+The init command will initialize an empty repository. See the below screenshot. adding new
